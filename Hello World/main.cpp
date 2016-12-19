@@ -10,6 +10,7 @@ int main()
     cin >> ariel;
     cout <<"hey " << ariel << " i am alive and also HELLO WORLD! \n";
     cout<<"hey\n";
+    cout<<"babay";
     
     
 }
